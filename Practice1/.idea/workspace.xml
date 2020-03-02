@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2965e183-0467-479b-a832-1d72a4a811e2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y3z9mBoABoM89OO3f8cSxmX1ct" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/fjnu8211/practice1/util" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\MyProject\IdeaPrograms\CompilationPrinciple\Practice1\src\com\fjnu8211\practice1\util" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MainFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fjnu8211.practice1.view.MainFrame" />
+      <module name="Practice1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fjnu8211.practice1.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainFrame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2965e183-0467-479b-a832-1d72a4a811e2" name="Default Changelist" comment="" />
+      <created>1582185917237</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582185917237</updated>
+      <workItem from="1582185920794" duration="877000" />
+      <workItem from="1582207779697" duration="6711000" />
+      <workItem from="1582292178348" duration="1627000" />
+      <workItem from="1582304492120" duration="5052000" />
+      <workItem from="1582310422579" duration="187000" />
+      <workItem from="1582358269223" duration="9709000" />
+      <workItem from="1582382158933" duration="6671000" />
+      <workItem from="1582562357459" duration="1480000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="42" key="#Project_Structure" timestamp="1582293832148">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="42" key="#Project_Structure/0.0.1366.768@0.0.1366.768" timestamp="1582293832148" />
+    <state x="286" y="44" key="#Tomcat_Server" timestamp="1582293676720">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="286" y="44" key="#Tomcat_Server/0.0.1366.768@0.0.1366.768" timestamp="1582293676720" />
+    <state x="137" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582293834051">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="137" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1582293834051" />
+    <state x="488" y="68" key="#com.intellij.ide.util.MemberChooser" timestamp="1582308474154">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="488" y="68" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1582308474154" />
+    <state x="413" y="168" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1582562424015">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="413" y="168" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.768@0.0.1366.768" timestamp="1582562424015" />
+    <state x="275" y="42" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1582293680994">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="42" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1366.768@0.0.1366.768" timestamp="1582293680994" />
+    <state width="1323" height="192" key="GridCell.Tab.0.bottom" timestamp="1582388931607">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1582388931607" />
+    <state width="1323" height="192" key="GridCell.Tab.0.center" timestamp="1582388931607">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1582388931607" />
+    <state width="1323" height="192" key="GridCell.Tab.0.left" timestamp="1582388931607">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1582388931607" />
+    <state width="1323" height="192" key="GridCell.Tab.0.right" timestamp="1582388931607">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1582388931607" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1582562495880">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1582562495880" />
+    <state x="339" y="172" key="run.anything.popup" timestamp="1582382813209">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="339" y="172" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1582382813209" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1582216313368">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1582216313368" />
+  </component>
+</project>
